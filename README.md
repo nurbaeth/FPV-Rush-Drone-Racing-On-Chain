@@ -10,7 +10,7 @@ Every race is transparent, verifiable, and forever recorded on-chain.
 🏆 Compete for leaderboard dominance   
   
 📦 No frontend required — just connect with Remix, Etherscan or Web3 tools 
-
+  
 🔧 Smart Contract Overview
 register() — Sign up as a racer (once per wallet)   
 
