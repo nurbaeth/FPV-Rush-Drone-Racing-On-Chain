@@ -26,6 +26,6 @@ Solidity ^0.8.0
 Ethereum-compatible EVM chains 
    
 No oracles, pure pseudo-random logic
-  
+   
 Remix or Hardhat for testing 
 
