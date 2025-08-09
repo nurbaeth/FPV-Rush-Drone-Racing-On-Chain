@@ -27,5 +27,5 @@ Ethereum-compatible EVM chains
    
 No oracles, pure pseudo-random logic
   
-Remix or Hardhat for testing
+Remix or Hardhat for testing 
 
