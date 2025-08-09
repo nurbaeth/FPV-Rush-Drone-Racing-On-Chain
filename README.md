@@ -23,7 +23,7 @@ All data is on-chain and transparent
 💡 Tech Stack 
 Solidity ^0.8.0 
   
-Ethereum-compatible EVM chains
+Ethereum-compatible EVM chains 
   
 No oracles, pure pseudo-random logic
   
