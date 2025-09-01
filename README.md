@@ -20,7 +20,7 @@ Leaderboard — Race skill ≥ 75? You get on the leaderboard
  
 All data is on-chain and transparent  
    
-💡 Tech Stack  
+💡 Tech Stack   
 Solidity ^0.8.0  
   
 Ethereum-compatible EVM chains 
