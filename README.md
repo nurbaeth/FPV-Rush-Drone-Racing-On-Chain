@@ -16,7 +16,7 @@ register() — Sign up as a racer (once per wallet)
        
 race() — Join a race and get a random skill level (0–99)
    
-Leaderboard — Race skill ≥ 75? You get on the leaderboard
+Leaderboard — Race skill ≥ 75? You get on the leaderboard 
  
 All data is on-chain and transparent  
    
