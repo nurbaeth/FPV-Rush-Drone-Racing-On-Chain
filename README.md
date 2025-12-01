@@ -1,4 +1,4 @@
-🏁 FPV Rush: Drone Racing On-Chain        
+🏁 FPV Rush: Drone Racing On-Chain         
 FPV Rush is a fully on-chain FPV drone racing game built with Solidity. Register as a drone pilot, compete in high-speed races, and prove your skills on the blockchain.        
 Every race is transparent, verifiable, and forever recorded on-chain.       
         
