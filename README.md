@@ -6,7 +6,7 @@ Every race is transparent, verifiable, and forever recorded on-chain.
 🎮 Register as a drone pilot         
          
 🕹️ Race on the blockchain using pseudo-random drone skill  
-    
+     
 🏆 Compete for leaderboard dominance       
    
 📦 No frontend required — just connect with Remix, Etherscan or Web3 tools   
