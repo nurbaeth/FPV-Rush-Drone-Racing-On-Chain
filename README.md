@@ -12,7 +12,7 @@ Every race is transparent, verifiable, and forever recorded on-chain.
 📦 No frontend required — just connect with Remix, Etherscan or Web3 tools  
       
 🔧 Smart Contract Overview   
-register() — Sign up as a racer (once per wallet)     
+register() — Sign up as a racer (once per wallet)      
         
 race() — Join a race and get a random skill level (0–99)
    
