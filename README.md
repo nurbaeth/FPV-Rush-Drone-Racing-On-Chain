@@ -5,7 +5,7 @@ Every race is transparent, verifiable, and forever recorded on-chain.
 🚀 Features         
 🎮 Register as a drone pilot         
          
-🕹️ Race on the blockchain using pseudo-random drone skill  
+🕹️ Race on the blockchain using pseudo-random drone skill   
      
 🏆 Compete for leaderboard dominance        
    
